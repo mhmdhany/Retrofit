@@ -1,4 +1,6 @@
-package com.example.bgrb;
+package com.example.bgrb.Networking;
+
+import com.example.bgrb.Models.PostModel;
 
 import java.util.List;
 

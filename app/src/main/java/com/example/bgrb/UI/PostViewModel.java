@@ -1,8 +1,10 @@
-package com.example.bgrb;
+package com.example.bgrb.UI;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
-import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.bgrb.Models.PostModel;
+import com.example.bgrb.Networking.RetrofitClient;
 
 import java.util.List;
 

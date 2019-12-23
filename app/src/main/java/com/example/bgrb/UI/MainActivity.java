@@ -1,4 +1,4 @@
-package com.example.bgrb;
+package com.example.bgrb.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
@@ -9,6 +9,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.graphics.Typeface;
 import android.os.Bundle;
 
+import com.example.bgrb.Adapters.PostAdapter;
+import com.example.bgrb.Models.PostModel;
+import com.example.bgrb.R;
 import com.getkeepsafe.taptargetview.TapTarget;
 import com.getkeepsafe.taptargetview.TapTargetView;
 

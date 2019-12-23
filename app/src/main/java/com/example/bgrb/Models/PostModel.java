@@ -1,4 +1,4 @@
-package com.example.bgrb;
+package com.example.bgrb.Models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

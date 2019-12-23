@@ -1,4 +1,4 @@
-package com.example.bgrb;
+package com.example.bgrb.Adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,6 +7,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.bgrb.Models.PostModel;
+import com.example.bgrb.R;
 
 import java.util.ArrayList;
 import java.util.List;
